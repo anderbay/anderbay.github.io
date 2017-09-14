@@ -48,6 +48,7 @@ nav ul span {
 }
 
 #logo_name {
+  font-family: Verdana;
   color: MediumAquamarine;
   padding: 10px 20px;
 }
